@@ -1,2 +1,1 @@
-Hello world
-new_line
+*First README.md for git*
