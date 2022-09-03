@@ -28,7 +28,8 @@ Follow these steps:
 4. Verify you're not a robot by solving the **Captcha** puzzle.
 
 5. Click **Create account**.
-![Create your account](https://phoenixnap.com/kb/wp-content/uploads/2021/09/create-an-account-on-github.png)
+
+    ![Create your account](https://phoenixnap.com/kb/wp-content/uploads/2021/09/create-an-account-on-github.png)
 
 6. GitHub sends a **launch code** to the specified email address. Copy-paste the code in the designated field.
 
