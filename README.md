@@ -333,3 +333,4 @@ You now know the basic and some more advanced Git functions. Feel free to test t
 Download our [Git commands cheat sheet](https://phoenixnap.com/kb/git-commands-cheat-sheet) to have all Git commands in one place for future use.
 
 ### This article from [**phoenixnap.com**](https://phoenixnap.com/kb/how-to-use-git)
+
